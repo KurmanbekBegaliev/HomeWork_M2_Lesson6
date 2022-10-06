@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeWork_M2_Lesson6</string>
+    <string name="text_email">Введите вашу почту</string>
+    <string name="text_password">Введите пароль</string>
+    <string name="text_voity">Войти</string>
+    <string name="text_forgot_pass">Забыл пароль?</string>
+    <string name="text_touch_it">Нажми сюда</string>
+    <string name="text_verify">Выполните вход или зарегистрируйтесь</string>
+    <string name="text_welcome">Добро пожаловать!</string>
+    <string name="text_login">Вход</string>
+</resources>
